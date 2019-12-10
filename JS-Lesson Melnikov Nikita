@@ -1,27 +1,45 @@
 // lesson numder 1
 console.log('Hello, World!');
+//answer: Hello, World!
 // lesson numder 2
 // You know nothing, Jon Snow!
+//answer:
 // lesson numder 3
 console.log('Robert');
 console.log('Stannis');
 console.log('Renly');
+//answer:Robert
+         Stannis
+         Renly
 // lesson numder 4
 console.log('9780262531962');
+//answer:9780262531962
 // lesson numder 5
-console.log('What Is Dead May Never Die')
+console.log('What Is Dead May Never Die');
+//answer:What Is Dead May Never Die
 // lesson numder 6
 console.log(81 / 9);
+//answer:9
 // lesson numder 7
 console.log(6 - -81);
+//answer:-87
 // lesson numder 8
-
+console.log(3 ** 5);
+console.log(-8 / -4);
+//answer:243
+         2
 // lesson numder 9
-
+console.log(8 / 2 + 5 - -3 / 2);
+//answer:10.5
 // lesson numder 10
-
+console.log(70 * (3 + 4) / (8 + 2));
+//answer:49
 // lesson numder 11
-
+console.log(0.39 * 0.22);
+//answer:0.0858
 // lesson numder 12
-
+console.log(1 / 0); // ?
+//answer:Infinity
 // lesson numder 13
+console.log(Infinity / Infinity);
+//answer: NaN
